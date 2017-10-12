@@ -1,6 +1,6 @@
-# maven-project
+# Driving Development with MUnit 
 
-This is my Maven project from MuleSoft's advanced development class:Driving Development with MUnit 
+This is my project from MuleSoft's advanced development class:Driving Development with MUnit 
 
 ## How to run the project
 
